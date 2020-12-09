@@ -1,0 +1,8 @@
+.test {
+  text-align: center;
+}
+
+main {
+  border-radius: 5px;
+  display: flex;
+}
